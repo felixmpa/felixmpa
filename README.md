@@ -2,12 +2,13 @@
 
 ## Skills
 
-- Azure DevOps
-- Linux
-- JavaScript
-- Scrum
-- C#
-- PHP
+NodeJS       [██████████] 10/10
+Serverless   [█████████░]  9/10
+C#           [█████████░]  9/10
+React        [███████░░░]  7/10
+PHP          [█████████░]  9/10
+Linux        [██████░░░░]  6/10
+Scrum        [█████░░░░░]  5/10
 
 ## Contact Me
 
